@@ -1,5 +1,6 @@
 # nguyenquoctrung_LTweb
 *ĐĂNG KÍ ĐỀ TÀI    
+--THÔNG TIN SINH VIÊN--  
 *MSSV:2121110043  
 *TÊN:Nguyễn Quốc Trung  
 *LỚP:CCQ2111B  
